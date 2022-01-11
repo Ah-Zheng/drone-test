@@ -26,4 +26,4 @@ steps:
 
 trigger:
   branch:
-    - gh-pages
+    - master
